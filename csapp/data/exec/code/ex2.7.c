@@ -1,3 +1,4 @@
+// version 1.0 2018-07-17
 #include <stdio.h>
 #include <string.h>
 
