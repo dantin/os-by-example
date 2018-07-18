@@ -26,5 +26,5 @@ Relatoinal Operations
   x &&  y = 0x01
   x ||  y = 0x01
  !x || !y = 0x00
-  x && ~y = 0x00
+  x && ~y = 0x01
  ```
